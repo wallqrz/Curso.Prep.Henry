@@ -1,0 +1,11 @@
+Variables: Las variables son elementos que se escriben y se guardan en algun lugar. Para poder ser utilizados en el momento que se necesiten, invocandolos con el nombre correspondiente.
+
+Strings: Los strings son cadenas de caracteres (pueden ser numeros o letras) escritos siempre entre comillas, que seran mostrados tal cual los escribimos.
+
+Funciones: Las funciones son pedazos de codigo que nos permiten utilizar las variables con cierta accion que nosotros indiquemos. 
+Asi mismo estan los argumentos que son elementos que componen a una funcion y van a ser afectados por la accion que indiquemos.
+Tambien esta la declaracion return, que lo que hace es devolver un elemento que se encuentra dentro de una funcion, hacia afuera.
+
+Las declaraciones if, sirven para condicionar una accion de la funcion. Ej: Si sucede A entonces
+
+Los valores booleanos son valores que pueden resultar solamente en 2 posibilidades, en este caso true o false (verdadero o falso), sin mas posibilidades.
