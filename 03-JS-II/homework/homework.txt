@@ -1,0 +1,3 @@
+El bucle for, sirve para que ciertas acciones que se tienen que repetir, lo hagan en automatico. Marcando los parametros de inicion y final.
+
+&&, || y ! son herramientas que significan "y", "o" y "NOT" que se utlizan para adherir una o mas condiciones a nuestros argumentos.   
