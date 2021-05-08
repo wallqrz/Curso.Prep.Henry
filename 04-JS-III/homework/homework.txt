@@ -1,0 +1,1 @@
+Un array es una lista de elementos de cualquier tipo, que aparece ordenada por orden automatico. Comienza su conteo siempre desde 0, como primer elemento.
