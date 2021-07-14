@@ -1,0 +1,2 @@
+Prototype es una propiedad predeterminado de los objetos. Nos sirve para acceder a la estrucutura de las mismas y utilizarlas como deseemos.
+El constructos es el que nos brinda la estrusctura para que nosotros podamos establecer las propiedades y formar nuesttra plantilla.

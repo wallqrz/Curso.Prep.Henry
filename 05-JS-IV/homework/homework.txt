@@ -1,0 +1,5 @@
+Los objetos son conjuntos de elementos con la formula clave-valor. 
+Las propiedades son los elementos de informacion que componen los objetos.
+Los metodos son funciones escritas dentro de los obejos y que se utilizan para aplicarlos en sus propiedades.
+For in, es un bucle que interactua con los elementos internos de los objetos.
+La notacion de punto y la de corchetes se utilizan para llamar a algun elemento dentro de un/os objeto/s.
